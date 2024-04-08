@@ -1,3 +1,7 @@
+## [3.13.6] - 2024-04-09
+
+* Pubspec.yaml dependency updates.
+
 ## [3.14.0] - 2024-04-06
 
 * Add toJson method to `Product` class
